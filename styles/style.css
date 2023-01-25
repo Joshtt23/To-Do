@@ -1,0 +1,20 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+span{
+    padding: 10px
+}
